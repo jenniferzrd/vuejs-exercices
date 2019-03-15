@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>test</h1>
+    <h1>Api Harry Potter</h1>
     <v-layout row>
       <v-flex xs12 sm6 offset-sm3>
         <v-card>
